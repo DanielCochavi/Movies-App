@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/title1"
+        android:title="Open Async Task Activity"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/title2"
+        android:title="Open Thread Handler Activity"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/title3"
+        android:title="Open Background Service Activity"
+        app:showAsAction="never"></item>
+
+</menu>
+
+
+

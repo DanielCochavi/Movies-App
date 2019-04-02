@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Movies App</string>
+    <string name="tv_overview">When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego Venomto save his life.</string>
+    <string name="tv_title">Venom</string>
+
+    <string name="infinity_war_title">Avengers: Infinity War</string>
+    <string name="infinity_war_release_date">2018-04-25</string>
+    <string name="infinity_war_overview">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="details_release_text">Released: </string>
+    <string name="details_trailer_text">Movie Trailer</string>
+    <string name="details_overview_text">Overview: </string>
+
+    <string name="AsyncTask">This is AsyncTask Activity</string>
+    <string name="msg_preexecute">Pre execute run</string>
+    <string name="msg_postexecute">Post execute run</string>
+    <string name="msg_cancel">cancel execute run</string>
+    <string name="done">Done!</string>
+
+    <string name="msg_oncreate">on create run</string>
+    <string name="msg_onstart">on start run</string>
+    <string name="msg_need_to_create">You should create a new task before!</string>
+
+
+    <string name="ThreadHandler">This is Thread Handler Activity</string>
+    <string name="the_progress">The progress</string>
+    <string name="start_service">START SERVICE</string>
+    <string name="start_intentservice">START INTENTSERVICE</string>
+    <string name="download_btn">DOWNLOAD IMAGE</string>
+
+    <string name="channel_name">Default channel</string>
+    <string name="channel_description">It is a channel for default notifications</string>
+    <string name="notification_msg">%1$d %%</string>
+    <string name="notification_title">Downloading...</string>
+    <string name="permission_msg">To be able downloading requested file, the app need to be granted to access your files</string>
+    <string name="permission_title">Permission needed</string>
+
+</resources>
